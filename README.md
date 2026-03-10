@@ -2,6 +2,6 @@
 
 
 # Link
-- BOJ : https://www.acmicpc.net/
-- Programmers : https://programmers.co.kr/
+- BOJ : 
+- Programmers : 
 - Velog : https://velog.io/@sunniid/posts
